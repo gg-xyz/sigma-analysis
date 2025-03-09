@@ -82,10 +82,6 @@ Sigma Analysis uses a combination of techniques to extract information:
 4. **Signature Matching**: Compare findings against a database of known malware families
 5. **Behavioral Analysis**: Identify malware functionality based on code patterns and configuration
 
-## License
-
-This project is released under the MIT License.
-
 ## Disclaimer
 
-This tool is designed for defensive security research and educational purposes only. Always ensure you have legal permission to analyze any file. The authors are not responsible for any misuse of this tool.
+This tool is designed for defensive security research and educational purposes only. I am not responsible for any misuse of this tool.
